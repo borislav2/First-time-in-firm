@@ -1,4 +1,5 @@
-## 07 07 22          Ден 2 9:40
+  ## Ден 2 9:40
+  ## 07/07/22
         
   ### Modbus theory -
    **ФК1 (четене на намотки)**
@@ -65,7 +66,7 @@ ________________________________________________________________________________
      беше даден за анализиране
 ________________________________________________________________________________________________________________________________________________
 
-## 07 07 22        Архитектура на Modbus RTU
+##      Архитектура на Modbus RTU
 
 ![Modbus RTU Architecture](img/Modbus%20RTU%20Architecture.png "Modbus RTU Architecture")
 
@@ -88,5 +89,6 @@ ________________________________________________________________________________
  ### Ползвани материали:
 
  [https://wikibgbg.top/wiki/Modbus](https://wikibgbg.top/wiki/Modbus)
+
  примерен код в, който се използва протокола:
  [https://pymodbus.readthedocs.io/en/v1.3.2/examples/synchronous-client.html](https://pymodbus.readthedocs.io/en/v1.3.2/examples/synchronous-client.html)
