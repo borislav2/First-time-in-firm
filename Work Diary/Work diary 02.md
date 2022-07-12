@@ -1,6 +1,6 @@
-## 07 07 22         ## Ден 2 9:40
+## 07 07 22          Ден 2 9:40
         
-     Modbus theory -
+  ### Modbus theory -
    **ФК1 (четене на намотки)**
      Заявка:
    - Адрес на първата намотка
@@ -83,9 +83,10 @@ ________________________________________________________________________________
 | 7 	| 1 	| 0 	| 1 	| 0 	| 0 	| ↑ 	|
 | 8 	| 1 	| 1 	| 0 	| 0 	| 0 	| 1 	|
         
-        2 анимационни схеми мисли действия
-        
-        Ползвани материали:
-        https:  wikibgbg.top wiki Modbus
-        примерен код в, който се използва протокола:
-        https:  pymodbus.readthedocs.io en v1.3.2 examples synchronous-client.html
+ - 2 анимационни схеми мисли действия
+ 
+ ### Ползвани материали:
+
+ [https://wikibgbg.top/wiki/Modbus](https://wikibgbg.top/wiki/Modbus)
+ примерен код в, който се използва протокола:
+ [https://pymodbus.readthedocs.io/en/v1.3.2/examples/synchronous-client.html](https://pymodbus.readthedocs.io/en/v1.3.2/examples/synchronous-client.html)
