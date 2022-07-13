@@ -11,8 +11,8 @@ ________________________________________________________________________________
 2. [Python 3.9.0](https://www.python.org/downloads/release/python-390/)
 3. [Pymodbus](https://pymodbus.readthedocs.io/en/latest/readme.html)
 4. [BK-0808R-S](https://aliexpress.ru/item/1005003500288689.html?_ga=2.77530069.1920170098.1657527125-242463039.1657527125&gatewayAdapt=glo2rus&sku_id=12000026071956763&spm=a2g2w.detail.1000023.2.2a0171afmX3cfQ)
-5. USB to RS485 converter
-6. [Example Code](https://pymodbus.readthedocs.io/en/v1.3.2/examples/synchronous-client.html)
+5. [Example Code](https://pymodbus.readthedocs.io/en/v1.3.2/examples/synchronous-client.html)
+6. USB to RS485 converter
 
 ________________________________________________________________________________________________________________________________________________
 
@@ -24,4 +24,3 @@ ________________________________________________________________________________
  
 ## Limitations
 - Only two lighing patterns 
-- Can't use it if you don't have the BK-0808R-S
