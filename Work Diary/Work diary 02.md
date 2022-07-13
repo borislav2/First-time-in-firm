@@ -91,5 +91,5 @@ ________________________________________________________________________________
 
  [https://wikibgbg.top/wiki/Modbus](https://wikibgbg.top/wiki/Modbus)
 
- примерен код в, който се използва протокола:
+ примерен код в, който се използва протокола
  [https://pymodbus.readthedocs.io/en/v1.3.2/examples/synchronous-client.html](https://pymodbus.readthedocs.io/en/v1.3.2/examples/synchronous-client.html)
